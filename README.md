@@ -1,7 +1,8 @@
 # Aufgabe:
-Ihr seid ein Team von jeweils 2 Personen. Ihr wollt beide an demselben Projekt arbeiten. Euch beiden wird eine Vorlage über GitHub bereitgesellt. 
 
-Einer von euch soll die Testklasse „Main“ durch eine ersetzen welche es dem Nutzer über eingaben ermöglicht seine eigenen Personalien in die Anschrift aufzunehmen. Das zweite Teammitglied schreibt eine Dokumentation zu jeder Methode, die keine Getter oder Setter ist. (Kommentare mit //).
+**Ihr seid ein Team von jeweils 2 Personen. Ihr wollt beide an demselben Projekt arbeiten. Euch beiden wird eine Vorlage über GitHub bereitgesellt.**
+
+**Einer von euch soll die Testklasse „Main“ durch eine ersetzen welche es dem Nutzer über eingaben ermöglicht seine eigenen Personalien in die Anschrift aufzunehmen. Das zweite Teammitglied schreibt eine Dokumentation zu jeder Methode, die keine Getter oder Setter ist. (Kommentare mit //).**
 
 
 a)	Die Dateien bezieht ihr beide über GitHub.
